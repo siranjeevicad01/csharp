@@ -1,0 +1,14 @@
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.exe
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.deps.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.runtimeconfig.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.AssemblyInfoInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.AssemblyInfo.cs
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.csproj.CoreCompileInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\refint\firstconsoledemo.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.genruntimeconfig.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\firstconsoledemo\obj\Debug\net7.0\ref\firstconsoledemo.dll
