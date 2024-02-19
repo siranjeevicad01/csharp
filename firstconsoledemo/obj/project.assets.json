@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\firstconsoledemo\\firstconsoledemo.csproj",
+      "projectUniqueName": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\csharp\\firstconsoledemo\\firstconsoledemo.csproj",
       "projectName": "firstconsoledemo",
-      "projectPath": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\firstconsoledemo\\firstconsoledemo.csproj",
+      "projectPath": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\csharp\\firstconsoledemo\\firstconsoledemo.csproj",
       "packagesPath": "C:\\Users\\SIRANJEEVICAD01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\firstconsoledemo\\obj\\",
+      "outputPath": "C:\\Users\\SIRANJEEVICAD01\\Desktop\\CadBatch01\\PROJECT\\csharp\\firstconsoledemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SIRANJEEVICAD01\\AppData\\Roaming\\NuGet\\NuGet.Config"
