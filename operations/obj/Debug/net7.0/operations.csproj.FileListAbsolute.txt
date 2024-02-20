@@ -1,0 +1,14 @@
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.AssemblyInfoInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.AssemblyInfo.cs
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.csproj.CoreCompileInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\bin\Debug\net7.0\operations.exe
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\bin\Debug\net7.0\operations.deps.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\bin\Debug\net7.0\operations.runtimeconfig.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\bin\Debug\net7.0\operations.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\bin\Debug\net7.0\operations.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\refint\operations.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\operations.genruntimeconfig.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\operations\obj\Debug\net7.0\ref\operations.dll
