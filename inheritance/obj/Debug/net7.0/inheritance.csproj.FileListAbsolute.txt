@@ -1,0 +1,4 @@
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
