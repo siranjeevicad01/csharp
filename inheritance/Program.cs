@@ -1,23 +1,10 @@
-﻿class Saran
+﻿namespace inheritance
 {
-    public saran(){
-        Console.WriteLine("Did you Know Me...,I'm Saran");
+    class Program
+{
+    static void Main(string [] args){
+        Selvaraj sj=new Selvaraj();
+        Console.WriteLine("My house Located in "+sj.gethouse());
     }
-    public  string shaddow(string shaddowword){
-        return "na iruttulaye vazhravan..." + shaddowword;
-    }
-
 }
-    class Ramcharan : saran
-    {
-        public ramcharan(sring name){
-            Console.WriteLine("shaddow");       
-        }
-    }
-
-
-    class Punch{
-        static void Main(string [] args){
-            Ramcharan charan=new Ramcharan("Enaku irutta paathu bayam ill");
-        }
-    }
+}
