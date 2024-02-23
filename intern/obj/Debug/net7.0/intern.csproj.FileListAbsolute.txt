@@ -1,0 +1,14 @@
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.AssemblyInfoInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.AssemblyInfo.cs
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.csproj.CoreCompileInputs.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\bin\Debug\net7.0\intern.exe
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\bin\Debug\net7.0\intern.deps.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\bin\Debug\net7.0\intern.runtimeconfig.json
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\bin\Debug\net7.0\intern.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\bin\Debug\net7.0\intern.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\refint\intern.dll
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.pdb
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\intern.genruntimeconfig.cache
+C:\Users\SIRANJEEVICAD01\Desktop\CadBatch01\PROJECT\csharp\intern\obj\Debug\net7.0\ref\intern.dll
